@@ -1,0 +1,43 @@
+{
+  "run_id": "c3fc7d73-4043-411a-b439-c298ddeeddc4",
+  "num_of_steps": 5,
+  "finished_at": "2026-10-31T06:39:15Z",
+  "steps": [
+    {
+      "action": "Navigate to blinkit search page for yoga bar protein bar",
+      "timestamp": "2026-10-31T06:37:18Z",
+      "duration": "8.6s",
+      "image": "step-00.jpg"
+    },
+    {
+      "action": "Set delivery location to pincode 560011",
+      "timestamp": "2026-10-31T06:37:45Z",
+      "duration": "1.4s",
+      "image": "step-01.jpg"
+    },
+    {
+      "action": "Select first location suggestion for pincode 560011",
+      "timestamp": "2026-10-31T06:37:58Z",
+      "duration": "3.2s",
+      "image": "step-02.jpg"
+    },
+    {
+      "action": "Extract first 8 products details",
+      "timestamp": "2026-10-31T06:38:22Z",
+      "duration": "2.5s",
+      "image": "step-03.jpg"
+    },
+    {
+      "action": "Return the first 8 products with details and delivery ETA",
+      "timestamp": "2026-10-31T06:39:13Z",
+      "duration": "0.0s",
+      "image": null
+    },
+    {
+      "action": "Task completed",
+      "timestamp": "2026-10-31T06:39:15Z",
+      "duration": null,
+      "image": null
+    }
+  ]
+}

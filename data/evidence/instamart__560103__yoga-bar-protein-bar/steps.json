@@ -1,0 +1,241 @@
+{
+  "run_id": "349f103e-14a5-41d6-9a16-05107121705f",
+  "num_of_steps": 38,
+  "finished_at": "2026-10-31T08:02:12Z",
+  "steps": [
+    {
+      "action": "Visit Swiggy Instamart homepage",
+      "timestamp": "2026-10-31T07:59:02Z",
+      "duration": "12.1s",
+      "image": "step-00.jpg"
+    },
+    {
+      "action": "Wait for page to fully load",
+      "timestamp": "2026-10-31T07:59:15Z",
+      "duration": "5.5s",
+      "image": "step-01.jpg"
+    },
+    {
+      "action": "Understand page layout and find location selector",
+      "timestamp": "2026-10-31T07:59:22Z",
+      "duration": "2.0s",
+      "image": "step-02.jpg"
+    },
+    {
+      "action": "Find location selector element",
+      "timestamp": "2026-10-31T07:59:26Z",
+      "duration": "1.7s",
+      "image": "step-03.jpg"
+    },
+    {
+      "action": "Check current page state for location selector",
+      "timestamp": "2026-10-31T07:59:29Z",
+      "duration": "1.9s",
+      "image": "step-04.jpg"
+    },
+    {
+      "action": "Open location input to enter pincode",
+      "timestamp": "2026-10-31T07:59:33Z",
+      "duration": "2.3s",
+      "image": "step-05.jpg"
+    },
+    {
+      "action": "Find pincode input in location modal",
+      "timestamp": "2026-10-31T07:59:36Z",
+      "duration": "1.8s",
+      "image": "step-06.jpg"
+    },
+    {
+      "action": "Verify this is the search input for location",
+      "timestamp": "2026-10-31T07:59:39Z",
+      "duration": "1.6s",
+      "image": "step-07.jpg"
+    },
+    {
+      "action": "Type pincode 560103 to set location",
+      "timestamp": "2026-10-31T07:59:41Z",
+      "duration": "1.0s",
+      "image": "step-08.jpg"
+    },
+    {
+      "action": "Check for pincode suggestions after typing",
+      "timestamp": "2026-10-31T07:59:43Z",
+      "duration": "2.1s",
+      "image": "step-09.jpg"
+    },
+    {
+      "action": "Submit pincode in location search field",
+      "timestamp": "2026-10-31T07:59:46Z",
+      "duration": "0.8s",
+      "image": "step-10.jpg"
+    },
+    {
+      "action": "Check page state after Enter key press",
+      "timestamp": "2026-10-31T07:59:48Z",
+      "duration": "2.4s",
+      "image": "step-11.jpg"
+    },
+    {
+      "action": "Get full page description",
+      "timestamp": "2026-10-31T07:59:52Z",
+      "duration": "2.5s",
+      "image": "step-12.jpg"
+    },
+    {
+      "action": "Check current page layout and available elements",
+      "timestamp": "2026-10-31T07:59:56Z",
+      "duration": "2.8s",
+      "image": "step-13.jpg"
+    },
+    {
+      "action": "Find the location input to set pincode",
+      "timestamp": "2026-10-31T08:00:00Z",
+      "duration": "1.9s",
+      "image": "step-14.jpg"
+    },
+    {
+      "action": "Open location input to type pincode 560103",
+      "timestamp": "2026-10-31T08:00:02Z",
+      "duration": "1.6s",
+      "image": "step-15.jpg"
+    },
+    {
+      "action": "Type pincode 560103 into location search",
+      "timestamp": "2026-10-31T08:00:06Z",
+      "duration": "1.0s",
+      "image": "step-16.jpg"
+    },
+    {
+      "action": "Submit pincode in location search",
+      "timestamp": "2026-10-31T08:00:08Z",
+      "duration": "0.9s",
+      "image": "step-17.jpg"
+    },
+    {
+      "action": "Check if pincode was set or rejected",
+      "timestamp": "2026-10-31T08:00:11Z",
+      "duration": "3.3s",
+      "image": "step-18.jpg"
+    },
+    {
+      "action": "Reopen location input to set pincode",
+      "timestamp": "2026-10-31T08:00:16Z",
+      "duration": "1.6s",
+      "image": "step-19.jpg"
+    },
+    {
+      "action": "Type pincode 560103 into location search",
+      "timestamp": "2026-10-31T08:00:19Z",
+      "duration": "1.0s",
+      "image": "step-20.jpg"
+    },
+    {
+      "action": "Clear and type Bellandur pincode",
+      "timestamp": "2026-10-31T08:00:23Z",
+      "duration": "1.0s",
+      "image": "step-21.jpg"
+    },
+    {
+      "action": "Check if pincode input is working",
+      "timestamp": "2026-10-31T08:00:27Z",
+      "duration": "3.4s",
+      "image": "step-22.jpg"
+    },
+    {
+      "action": "Focus the location search input field",
+      "timestamp": "2026-10-31T08:00:32Z",
+      "duration": "1.7s",
+      "image": "step-23.jpg"
+    },
+    {
+      "action": "Type pincode 560103 into location search",
+      "timestamp": "2026-10-31T08:00:36Z",
+      "duration": "1.9s",
+      "image": "step-24.jpg"
+    },
+    {
+      "action": "Select first pincode suggestion to set location",
+      "timestamp": "2026-10-31T08:00:40Z",
+      "duration": "1.5s",
+      "image": "step-25.jpg"
+    },
+    {
+      "action": "Confirm location 560103",
+      "timestamp": "2026-10-31T08:00:43Z",
+      "duration": "2.9s",
+      "image": "step-26.jpg"
+    },
+    {
+      "action": "Focus search bar to type query",
+      "timestamp": "2026-10-31T08:00:50Z",
+      "duration": "1.8s",
+      "image": "step-27.jpg"
+    },
+    {
+      "action": "Click search bar to type query",
+      "timestamp": "2026-10-31T08:00:54Z",
+      "duration": "3.0s",
+      "image": "step-28.jpg"
+    },
+    {
+      "action": "Get context of search button to click it",
+      "timestamp": "2026-10-31T08:01:00Z",
+      "duration": "3.3s",
+      "image": "step-29.jpg"
+    },
+    {
+      "action": "Type search query yoga bar protein bar",
+      "timestamp": "2026-10-31T08:01:03Z",
+      "duration": "2.1s",
+      "image": "step-30.jpg"
+    },
+    {
+      "action": "Wait for search results to load",
+      "timestamp": "2026-10-31T08:01:07Z",
+      "duration": "5.2s",
+      "image": "step-31.jpg"
+    },
+    {
+      "action": "Submit search to see all results",
+      "timestamp": "2026-10-31T08:01:15Z",
+      "duration": "5.3s",
+      "image": "step-32.jpg"
+    },
+    {
+      "action": "Extract first 8 product details from search results",
+      "timestamp": "2026-10-31T08:01:23Z",
+      "duration": "3.9s",
+      "image": "step-33.jpg"
+    },
+    {
+      "action": "Extract first 8 product details with correct prices and MRPs",
+      "timestamp": "2026-10-31T08:01:29Z",
+      "duration": "3.8s",
+      "image": "step-34.jpg"
+    },
+    {
+      "action": "Extract price and MRP from first product card",
+      "timestamp": "2026-10-31T08:01:35Z",
+      "duration": "2.0s",
+      "image": "step-35.jpg"
+    },
+    {
+      "action": "Extract price and MRP from second product",
+      "timestamp": "2026-10-31T08:01:37Z",
+      "duration": "0.1s",
+      "image": "step-36.jpg"
+    },
+    {
+      "action": "Return first 8 search results for yoga bar protein bar",
+      "timestamp": "2026-10-31T08:02:00Z",
+      "duration": "0.0s",
+      "image": null
+    },
+    {
+      "action": "Task completed",
+      "timestamp": "2026-10-31T08:02:11Z",
+      "duration": null,
+      "image": null
+    }
+  ]
+}

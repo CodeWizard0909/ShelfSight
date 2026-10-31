@@ -1,0 +1,83 @@
+{
+  "result": {
+    "location_set": false,
+    "delivery_eta_minutes": 12,
+    "products": [
+      {
+        "rank": 1,
+        "name": "Yoga Bar Strawberry Pop 10g Protein Wafer Bar",
+        "brand": "Yoga Bar",
+        "price": 42,
+        "mrp": 60,
+        "in_stock": true
+      },
+      {
+        "rank": 2,
+        "name": "Yoga Bar Chocolate Chunk Nut Multigrain Energy Bar",
+        "brand": "Yoga Bar",
+        "price": 28,
+        "mrp": 50,
+        "in_stock": true
+      },
+      {
+        "rank": 3,
+        "name": "Yoga Bar 20 g Protein Bar, Choco Peanut Butter, No Added Sugar",
+        "brand": "Yoga Bar",
+        "price": 109,
+        "mrp": 125,
+        "in_stock": true
+      },
+      {
+        "rank": 4,
+        "name": "Yoga Bar 20 g Protein Bar, Coffee Rush, No Added Sugar",
+        "brand": "Yoga Bar",
+        "price": 109,
+        "mrp": 125,
+        "in_stock": true
+      },
+      {
+        "rank": 5,
+        "name": "Right Shift Date, Nut and Seeds Dry Fruit Bites",
+        "brand": "Right Shift",
+        "price": 148,
+        "mrp": 250,
+        "in_stock": true
+      },
+      {
+        "rank": 6,
+        "name": "Yoga Bar 10 g Dark Chocolate & Cranberry Protein Bar",
+        "brand": "Yoga Bar",
+        "price": 65,
+        "mrp": 0,
+        "in_stock": true
+      },
+      {
+        "rank": 7,
+        "name": "Yoga Bar Choco Peanut Butter Mini Protein Bar Pack",
+        "brand": "Yoga Bar",
+        "price": 151,
+        "mrp": 175,
+        "in_stock": true
+      },
+      {
+        "rank": 8,
+        "name": "Yoga Bar Dark Chocolate Breakfast Protein Bar",
+        "brand": "Yoga Bar",
+        "price": 42,
+        "mrp": 60,
+        "in_stock": true
+      }
+    ]
+  },
+  "log": [
+    "Visit Blinkit search results for yoga bar protein bar",
+    "Check current delivery location status",
+    "Type pincode 560100 to set delivery location",
+    "Select first suggestion for pincode 560100",
+    "Verify location set to 560100/Electronic City",
+    "Extract first 8 product details from search results",
+    "Return extracted first 8 products from Blinkit search"
+  ],
+  "seconds": 118,
+  "run_id": "2bb23d8b-5b34-4678-bf98-2a4e2bfa1663"
+}

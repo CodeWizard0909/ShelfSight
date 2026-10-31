@@ -1,0 +1,97 @@
+{
+  "result": {
+    "blocked": false,
+    "products": [
+      {
+        "mrp": 65,
+        "name": "Yoga Bar Breakfast Protein Bar Dark Chocolate, 4g Protein, 17g Whole Grain, Fibre Rich, Millets,Oats",
+        "rank": 1,
+        "brand": "Yoga Bar",
+        "price": 42,
+        "in_stock": true
+      },
+      {
+        "mrp": 0,
+        "name": "Pureboost Coffee Mocha Protein Bar",
+        "rank": 2,
+        "brand": "Pureboost",
+        "price": 100,
+        "in_stock": true
+      },
+      {
+        "mrp": 0,
+        "name": "Pureboost Chocolate Protein Bar",
+        "rank": 3,
+        "brand": "Pureboost",
+        "price": 100,
+        "in_stock": true
+      },
+      {
+        "mrp": 60,
+        "name": "Yoga Bar Protein Wafer Strawberry Pop; 10g protein; 0% Maida",
+        "rank": 4,
+        "brand": "Yoga Bar",
+        "price": 39,
+        "in_stock": true
+      },
+      {
+        "mrp": 175,
+        "name": "Yoga Bar Protein Minis; 4g Protein Bar; Chocolate Peanut Butter; Dark Chocolate Bar Rich in Protein & Fiber",
+        "rank": 5,
+        "brand": "Yoga Bar",
+        "price": 98,
+        "in_stock": true
+      },
+      {
+        "mrp": 0,
+        "name": "Pureboost Choco Berry Protein Bar",
+        "rank": 6,
+        "brand": "Pureboost",
+        "price": 100,
+        "in_stock": true
+      },
+      {
+        "mrp": 0,
+        "name": "Pureboost Choco Almond Protein Bar",
+        "rank": 7,
+        "brand": "Pureboost",
+        "price": 100,
+        "in_stock": true
+      },
+      {
+        "mrp": 125,
+        "name": "Yoga Bar 20g Protein Bar, Power Up, Choco Peanut Butter, No Added Sugar, Whey Powder",
+        "rank": 8,
+        "brand": "Yoga Bar",
+        "price": 89,
+        "in_stock": true
+      }
+    ],
+    "location_set": true,
+    "delivery_eta_minutes": 18
+  },
+  "error": null,
+  "log": [
+    "Navigate to Swiggy Instamart homepage",
+    "Wait for page to fully load",
+    "Check for cookie banner and locate key elements",
+    "Click the search box to enter pincode",
+    "Check page state after popup closed",
+    "Click Add your location to open location popup",
+    "Click the search input in the location popup",
+    "Input pincode 560034 into the search input",
+    "Click first suggestion for pincode 560034",
+    "Click Confirm Location button",
+    "Check current page state after location confirmed",
+    "Find the search bar to type the query",
+    "Click the search bar to type query",
+    "Extract first 8 product details from search results",
+    "Type yoga bar protein bar into search",
+    "Click to see all search results",
+    "Extract first 8 products from search results",
+    "Submit final results for yoga bar protein bar search",
+    "Task completed"
+  ],
+  "seconds": null,
+  "run_id": "f51d14cb-df4d-4f64-b8ae-98a707bcc738"
+}

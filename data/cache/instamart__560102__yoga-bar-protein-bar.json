@@ -1,0 +1,117 @@
+{
+  "result": {
+    "location_set": true,
+    "blocked": false,
+    "delivery_eta_minutes": 4,
+    "products": [
+      {
+        "rank": 1,
+        "name": "Yoga Bar Breakfast Protein Bar Dark Chocolate, 4g Protein, 17g Whole Grain, Fibre Rich, Millets,Oats",
+        "brand": "Yoga Bar",
+        "price": 39,
+        "mrp": 0,
+        "in_stock": true
+      },
+      {
+        "rank": 2,
+        "name": "Pureboost Coffee Mocha Protein Bar",
+        "brand": "Pureboost",
+        "price": 100,
+        "mrp": 0,
+        "in_stock": true
+      },
+      {
+        "rank": 3,
+        "name": "Pureboost Choco Berry Protein Bar",
+        "brand": "Pureboost",
+        "price": 100,
+        "mrp": 0,
+        "in_stock": true
+      },
+      {
+        "rank": 4,
+        "name": "Yoga Bar Protein Wafer Strawberry Pop; 10g protein; 0% Maida",
+        "brand": "Yoga Bar",
+        "price": 39,
+        "mrp": 0,
+        "in_stock": true
+      },
+      {
+        "rank": 5,
+        "name": "Yoga Bar Protein Minis; 4g Protein Bar; Chocolate Peanut Butter; Dark Chocolate Bar Rich in Protein & Fiber",
+        "brand": "Yoga Bar",
+        "price": 98,
+        "mrp": 0,
+        "in_stock": true
+      },
+      {
+        "rank": 6,
+        "name": "Pureboost Choco Almond Protein Bar",
+        "brand": "Pureboost",
+        "price": 100,
+        "mrp": 0,
+        "in_stock": true
+      },
+      {
+        "rank": 7,
+        "name": "Pureboost Chocolate Protein Bar",
+        "brand": "Pureboost",
+        "price": 100,
+        "mrp": 0,
+        "in_stock": true
+      },
+      {
+        "rank": 8,
+        "name": "Yoga Bar 20g Protein Bar, Power Up, Choco Peanut Butter, No Added Sugar, Whey Powder",
+        "brand": "Yoga Bar",
+        "price": 89,
+        "mrp": 0,
+        "in_stock": true
+      }
+    ]
+  },
+  "error": null,
+  "log": [
+    "Visit Swiggy Instamart to begin task",
+    "Wait for page to fully load",
+    "Understand page layout and current state",
+    "See page layout and current state",
+    "Find location selector element",
+    "See current page layout",
+    "Identify the add location element",
+    "Find search input element",
+    "See search and location UI",
+    "Open location selector to enter pincode",
+    "Find pincode input field",
+    "Focus the location search input",
+    "Enter pincode 560102 for location",
+    "Select first location suggestion",
+    "Confirm the selected delivery location",
+    "See page after location confirmation",
+    "Focus search box to type query",
+    "Type search query for protein bars",
+    "Type search query for protein bars",
+    "Submit search query for protein bars",
+    "Wait for search results to load",
+    "Dismiss login popup",
+    "Extract first 8 product details from search results",
+    "See product cards on search results page",
+    "Wait for products to load fully",
+    "Extract product details from search results",
+    "Get product card details from search results",
+    "Dismiss login dialog",
+    "See current page state after search",
+    "Dismiss login popup again",
+    "See search results after query submitted",
+    "Navigate directly to search results",
+    "Wait for product cards to load",
+    "Extract all details from first 8 product cards",
+    "Verify MRP values for all 8 products",
+    "Verify MRP values for all 8 products",
+    "Check exact location header text",
+    "Final answer with 8 products and metadata"
+  ],
+  "seconds": 218,
+  "run_id": "9f09cced-f4c4-4d9f-9682-3cfacd6e330f",
+  "verified": "location_set corrected after manual review: step-15 screenshot header shows Hsr Layout; the agent re-checked on the search page, which hides the header"
+}

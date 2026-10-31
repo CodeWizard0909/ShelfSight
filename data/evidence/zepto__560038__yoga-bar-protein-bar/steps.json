@@ -1,0 +1,73 @@
+{
+  "run_id": "ccd6844d-6b81-42d7-a6dd-b5441bb6519c",
+  "num_of_steps": 10,
+  "finished_at": "2026-10-31T06:13:44Z",
+  "steps": [
+    {
+      "action": "Visit Zepto search page for yoga bar protein bar",
+      "timestamp": "2026-10-31T06:08:57Z",
+      "duration": "9.1s",
+      "image": "step-00.jpg"
+    },
+    {
+      "action": "Wait for page content to load",
+      "timestamp": "2026-10-31T06:09:10Z",
+      "duration": "3.3s",
+      "image": "step-01.jpg"
+    },
+    {
+      "action": "Click to set delivery location",
+      "timestamp": "2026-10-31T06:09:59Z",
+      "duration": "1.1s",
+      "image": "step-02.jpg"
+    },
+    {
+      "action": "Check delivery ETA and current location",
+      "timestamp": "2026-10-31T06:10:19Z",
+      "duration": "1.8s",
+      "image": "step-03.jpg"
+    },
+    {
+      "action": "Enter pincode 560038 for delivery location",
+      "timestamp": "2026-10-31T06:10:47Z",
+      "duration": "2.6s",
+      "image": "step-04.jpg"
+    },
+    {
+      "action": "Select first location suggestion",
+      "timestamp": "2026-10-31T06:11:09Z",
+      "duration": "4.3s",
+      "image": "step-05.jpg"
+    },
+    {
+      "action": "Extract first 8 products details",
+      "timestamp": "2026-10-31T06:11:56Z",
+      "duration": "3.1s",
+      "image": "step-06.jpg"
+    },
+    {
+      "action": "Verify first 8 products and delivery ETA",
+      "timestamp": "2026-10-31T06:12:16Z",
+      "duration": "2.8s",
+      "image": "step-07.jpg"
+    },
+    {
+      "action": "Get exact first 8 products",
+      "timestamp": "2026-10-31T06:12:34Z",
+      "duration": "2.7s",
+      "image": "step-08.jpg"
+    },
+    {
+      "action": "Return final results with location set, first 8 products and delivery ETA",
+      "timestamp": "2026-10-31T06:13:41Z",
+      "duration": "0.0s",
+      "image": null
+    },
+    {
+      "action": "Task completed",
+      "timestamp": "2026-10-31T06:13:43Z",
+      "duration": null,
+      "image": null
+    }
+  ]
+}

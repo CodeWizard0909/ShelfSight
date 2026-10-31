@@ -1,0 +1,84 @@
+{
+  "result": {
+    "location_set": true,
+    "delivery_eta_minutes": 11,
+    "products": [
+      {
+        "rank": 1,
+        "name": "Yoga Bar Strawberry Pop 10g Protein Wafer Bar",
+        "brand": "Yoga Bar",
+        "price": 42,
+        "mrp": 60,
+        "in_stock": true
+      },
+      {
+        "rank": 2,
+        "name": "Yoga Bar Chocolate Chunk Nut Multigrain Energy Bar",
+        "brand": "Yoga Bar",
+        "price": 28,
+        "mrp": 50,
+        "in_stock": true
+      },
+      {
+        "rank": 3,
+        "name": "Yoga Bar 20 g Protein Bar, Choco Peanut Butter, No Added Sugar",
+        "brand": "Yoga Bar",
+        "price": 109,
+        "mrp": 125,
+        "in_stock": true
+      },
+      {
+        "rank": 4,
+        "name": "Yoga Bar 20 g Protein Bar, Coffee Rush, No Added Sugar",
+        "brand": "Yoga Bar",
+        "price": 109,
+        "mrp": 125,
+        "in_stock": true
+      },
+      {
+        "rank": 5,
+        "name": "RiteBite Max Protein Choco Temptation Millet Wafer Protein Bar",
+        "brand": "RiteBite",
+        "price": 71,
+        "mrp": 71,
+        "in_stock": true
+      },
+      {
+        "rank": 6,
+        "name": "Yoga Bar 10 g Dark Chocolate & Cranberry Protein Bar",
+        "brand": "Yoga Bar",
+        "price": 65,
+        "mrp": 65,
+        "in_stock": true
+      },
+      {
+        "rank": 7,
+        "name": "Yoga Bar Choco Peanut Butter Mini Protein Bar Pack",
+        "brand": "Yoga Bar",
+        "price": 151,
+        "mrp": 175,
+        "in_stock": true
+      },
+      {
+        "rank": 8,
+        "name": "Yoga Bar Dark Chocolate Breakfast Protein Bar",
+        "brand": "Yoga Bar",
+        "price": 42,
+        "mrp": 60,
+        "in_stock": true
+      }
+    ]
+  },
+  "log": [
+    "Navigate to Blinkit search page for yoga bar protein bar",
+    "Enter pincode 560066 for delivery location",
+    "Select first location suggestion for pincode 560066",
+    "Navigate to Blinkit search page for yoga bar protein bar",
+    "Enter pincode 560066 for delivery location",
+    "Select first location suggestion for pincode 560066",
+    "Extract first 8 products from search results",
+    "Return first 8 products with location set to 560066"
+  ],
+  "seconds": 63,
+  "run_id": "8d4441cb-396e-458f-b006-a8b94e0c3e9a"
+}

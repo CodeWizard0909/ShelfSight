@@ -1,0 +1,114 @@
+{
+  "result": {
+    "location_set": true,
+    "delivery_eta_minutes": 10,
+    "products": [
+      {
+        "rank": 1,
+        "name": "Upnourish by Pluckk Orange Cocoa 15 g Plant Protein Bar",
+        "brand": "Upnourish by Pluckk",
+        "price": 94.6,
+        "mrp": 110,
+        "in_stock": true
+      },
+      {
+        "rank": 2,
+        "name": "Yoga Bar Chocolate Brownie 20 g Protein Bar",
+        "brand": "Yoga Bar",
+        "price": 99,
+        "mrp": 125,
+        "in_stock": true
+      },
+      {
+        "rank": 3,
+        "name": "Upnourish by Pluckk Cocoa Hazelnut & Cafe Mocha 15g Plant Protein Bar",
+        "brand": "Upnourish by Pluckk",
+        "price": 445.5,
+        "mrp": 660,
+        "in_stock": true
+      },
+      {
+        "rank": 4,
+        "name": "Yoga Bar Multigrain Energy Bars - Assorted Flavours",
+        "brand": "Yoga Bar",
+        "price": 789.32,
+        "mrp": 1497,
+        "in_stock": true
+      },
+      {
+        "rank": 5,
+        "name": "Yoga Bar Breakfast Protein Bars - Assorted Flavours",
+        "brand": "Yoga Bar",
+        "price": 664.43,
+        "mrp": 897,
+        "in_stock": true
+      },
+      {
+        "rank": 6,
+        "name": "Yoga Bar Blueberry Pie Breakfast Protein Bar",
+        "brand": "Yoga Bar",
+        "price": 126.72,
+        "mrp": 180,
+        "in_stock": true
+      },
+      {
+        "rank": 7,
+        "name": "Yoga Bar Cookies & Cream Flavoured 10 g Protein Wafer",
+        "brand": "Yoga Bar",
+        "price": 49.02,
+        "mrp": 60,
+        "in_stock": true
+      },
+      {
+        "rank": 8,
+        "name": "Yoga Bar Breakfast Dark Chocolate Flavour Protein Bar",
+        "brand": "Yoga Bar",
+        "price": 42,
+        "mrp": 60,
+        "in_stock": true
+      }
+    ]
+  },
+  "log": [
+    "Navigate to bigbasket search results for yoga bar protein bar",
+    "Check if search results are displayed",
+    "Open location selector to set pincode",
+    "Enter pincode 560103 for location",
+    "Select first location suggestion",
+    "Find search bar on the page",
+    "Bypass access denied error on BigBasket",
+    "Navigate to BigBasket search results after reconfiguration",
+    "Understand current page state and layout",
+    "Input search query for yoga bar protein bar",
+    "Open location selector to set pincode",
+    "Enter pincode 560103 for location",
+    "Select first location suggestion",
+    "Submit search query for yoga bar protein bar",
+    "Enter search query for yoga bar protein bar",
+    "Go to full search results page",
+    "Navigate to search results page directly",
+    "Focus search input",
+    "Open location selector",
+    "Confirm location 560103",
+    "Select first location suggestion",
+    "Navigate to full search results page",
+    "Navigate directly to search results page for yoga bar protein bar",
+    "Dismiss location confirmation popup",
+    "Extract first 8 products from search results",
+    "Navigate to full search results page",
+    "Check if search results are visible",
+    "Focus search input field",
+    "Extract product details from search results",
+    "Wait for search results to load",
+    "Focus search input",
+    "Extract search results for yoga bar protein bar",
+    "Wait for search results to fully load",
+    "Extract product details from search results page",
+    "Re-visit search results page",
+    "Focus search input to enter query",
+    "Extract first 8 products from search results",
+    "Return first 8 products and delivery ETA for yoga bar protein bar"
+  ],
+  "seconds": 587,
+  "run_id": "8115e8bf-a00b-4dfe-b2cf-908bceec8ec1"
+}

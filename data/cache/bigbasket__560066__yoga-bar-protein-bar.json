@@ -1,0 +1,95 @@
+{
+  "result": {
+    "location_set": true,
+    "delivery_eta_minutes": 11,
+    "products": [
+      {
+        "rank": 1,
+        "name": "Yoga Bar Apricot Fig 6 g Protein Bar",
+        "brand": "Yoga Bar",
+        "price": 42,
+        "mrp": 60,
+        "in_stock": true
+      },
+      {
+        "rank": 2,
+        "name": "Yoga Bar Blueberry Pie Breakfast Protein Bar",
+        "brand": "Yoga Bar",
+        "price": 253.44,
+        "mrp": 360,
+        "in_stock": true
+      },
+      {
+        "rank": 3,
+        "name": "Yoga Bar Strawberry Pop Protein Wafer",
+        "brand": "Yoga Bar",
+        "price": 49.02,
+        "mrp": 60,
+        "in_stock": true
+      },
+      {
+        "rank": 4,
+        "name": "Yoga Bar Dark Chocolate 10 g Protein Wafer",
+        "brand": "Yoga Bar",
+        "price": 49.02,
+        "mrp": 60,
+        "in_stock": true
+      },
+      {
+        "rank": 5,
+        "name": "Yoga Bar Dark Chocolate & Cranberry Flavour 10 g Protein Bar",
+        "brand": "Yoga Bar",
+        "price": 61.6,
+        "mrp": 65,
+        "in_stock": true
+      },
+      {
+        "rank": 6,
+        "name": "Yoga Bar Chocolate Brownie 20 g Protein Bar",
+        "brand": "Yoga Bar",
+        "price": 99,
+        "mrp": 125,
+        "in_stock": true
+      },
+      {
+        "rank": 7,
+        "name": "Yoga Bar Cookies & Cream Flavoured 10 g Protein Wafer",
+        "brand": "Yoga Bar",
+        "price": 49.02,
+        "mrp": 60,
+        "in_stock": true
+      },
+      {
+        "rank": 8,
+        "name": "Yoga Bar Breakfast Dark Chocolate Flavour Protein Bar",
+        "brand": "Yoga Bar",
+        "price": 45.5,
+        "mrp": 65,
+        "in_stock": true
+      }
+    ]
+  },
+  "log": [
+    "Navigate to bigbasket search page for yoga bar protein bar",
+    "Open location selector to set pincode 560066",
+    "Type pincode 560066 into location search field",
+    "Select first pincode suggestion to set location",
+    "Check current page state after location set",
+    "Bypass access denied on bigbasket",
+    "Navigate back to bigbasket search page after reconfiguration",
+    "Open location selector to set pincode 560066",
+    "Type pincode 560066 to set delivery location",
+    "Select first pincode suggestion to set location",
+    "Check location header and search box",
+    "Click search box to input query",
+    "Type search query yoga bar protein bar",
+    "Close the search dropdown to see page",
+    "Focus search box to type query",
+    "Type search query and submit",
+    "Go to search results page directly",
+    "Extract first 8 products from search results",
+    "Return 8 products from yoga bar protein bar search for Whitefield 560066"
+  ],
+  "seconds": 367,
+  "run_id": "a4c9501d-8658-4130-9e73-86a7c2a72fd4"
+}

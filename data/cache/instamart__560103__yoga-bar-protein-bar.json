@@ -1,0 +1,116 @@
+{
+  "result": {
+    "location_set": true,
+    "blocked": false,
+    "delivery_eta_minutes": 9,
+    "products": [
+      {
+        "rank": 1,
+        "name": "Yoga Bar Breakfast Protein Bar Dark Chocolate, 4g Protein, 17g Whole Grain, Fibre Rich, Millets,Oats",
+        "brand": "Yoga Bar",
+        "price": 42,
+        "mrp": 65,
+        "in_stock": true
+      },
+      {
+        "rank": 2,
+        "name": "Pureboost Coffee Mocha Protein Bar",
+        "brand": "Pureboost",
+        "price": 100,
+        "mrp": 0,
+        "in_stock": true
+      },
+      {
+        "rank": 3,
+        "name": "Pureboost Chocolate Protein Bar",
+        "brand": "Pureboost",
+        "price": 100,
+        "mrp": 0,
+        "in_stock": true
+      },
+      {
+        "rank": 4,
+        "name": "Yoga Bar Protein Wafer Strawberry Pop; 10g protein; 0% Maida",
+        "brand": "Yoga Bar",
+        "price": 39,
+        "mrp": 60,
+        "in_stock": true
+      },
+      {
+        "rank": 5,
+        "name": "Yoga Bar Protein Minis; 4g Protein Bar; Chocolate Peanut Butter; Dark Chocolate Bar Rich in Protein & Fiber",
+        "brand": "Yoga Bar",
+        "price": 98,
+        "mrp": 175,
+        "in_stock": true
+      },
+      {
+        "rank": 6,
+        "name": "Pureboost Choco Almond Protein Bar",
+        "brand": "Pureboost",
+        "price": 100,
+        "mrp": 0,
+        "in_stock": true
+      },
+      {
+        "rank": 7,
+        "name": "Pureboost Choco Berry Protein Bar",
+        "brand": "Pureboost",
+        "price": 100,
+        "mrp": 0,
+        "in_stock": true
+      },
+      {
+        "rank": 8,
+        "name": "Yoga Bar Protein Wafer Cookies and Cream, 10g protein, 0% Maida",
+        "brand": "Yoga Bar",
+        "price": 39,
+        "mrp": 60,
+        "in_stock": true
+      }
+    ]
+  },
+  "error": null,
+  "log": [
+    "Visit Swiggy Instamart homepage",
+    "Wait for page to fully load",
+    "Understand page layout and find location selector",
+    "Find location selector element",
+    "Check current page state for location selector",
+    "Open location input to enter pincode",
+    "Find pincode input in location modal",
+    "Verify this is the search input for location",
+    "Type pincode 560103 to set location",
+    "Check for pincode suggestions after typing",
+    "Submit pincode in location search field",
+    "Check page state after Enter key press",
+    "Get full page description",
+    "Check current page layout and available elements",
+    "Find the location input to set pincode",
+    "Open location input to type pincode 560103",
+    "Type pincode 560103 into location search",
+    "Submit pincode in location search",
+    "Check if pincode was set or rejected",
+    "Reopen location input to set pincode",
+    "Type pincode 560103 into location search",
+    "Clear and type Bellandur pincode",
+    "Check if pincode input is working",
+    "Focus the location search input field",
+    "Type pincode 560103 into location search",
+    "Select first pincode suggestion to set location",
+    "Confirm location 560103",
+    "Focus search bar to type query",
+    "Click search bar to type query",
+    "Get context of search button to click it",
+    "Type search query yoga bar protein bar",
+    "Wait for search results to load",
+    "Submit search to see all results",
+    "Extract first 8 product details from search results",
+    "Extract first 8 product details with correct prices and MRPs",
+    "Extract price and MRP from first product card",
+    "Extract price and MRP from second product",
+    "Return first 8 search results for yoga bar protein bar"
+  ],
+  "seconds": 198,
+  "run_id": "349f103e-14a5-41d6-9a16-05107121705f"
+}

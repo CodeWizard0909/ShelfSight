@@ -1,0 +1,67 @@
+{
+  "run_id": "984bff56-51fa-4221-9993-4bfb49e6d729",
+  "num_of_steps": 9,
+  "finished_at": "2026-10-31T06:07:15Z",
+  "steps": [
+    {
+      "action": "Navigate to Zepto search page for protein bars",
+      "timestamp": "2026-10-31T06:03:41Z",
+      "duration": "12.4s",
+      "image": "step-00.jpg"
+    },
+    {
+      "action": "Wait for page to fully load",
+      "timestamp": "2026-10-31T06:04:07Z",
+      "duration": "3.3s",
+      "image": "step-01.jpg"
+    },
+    {
+      "action": "Open location selector to set pincode",
+      "timestamp": "2026-10-31T06:04:19Z",
+      "duration": "1.2s",
+      "image": "step-02.jpg"
+    },
+    {
+      "action": "Check if location popup appeared",
+      "timestamp": "2026-10-31T06:04:26Z",
+      "duration": "1.9s",
+      "image": "step-03.jpg"
+    },
+    {
+      "action": "Enter pincode 560034 for location",
+      "timestamp": "2026-10-31T06:04:43Z",
+      "duration": "1.7s",
+      "image": "step-04.jpg"
+    },
+    {
+      "action": "Select first location suggestion for pincode 560034",
+      "timestamp": "2026-10-31T06:05:05Z",
+      "duration": "10.6s",
+      "image": "step-05.jpg"
+    },
+    {
+      "action": "Extract product details and ETA",
+      "timestamp": "2026-10-31T06:05:30Z",
+      "duration": "3.4s",
+      "image": "step-06.jpg"
+    },
+    {
+      "action": "Extract first 8 product details",
+      "timestamp": "2026-10-31T06:05:47Z",
+      "duration": "2.8s",
+      "image": "step-07.jpg"
+    },
+    {
+      "action": "Return first 8 product details and delivery ETA",
+      "timestamp": "2026-10-31T06:07:12Z",
+      "duration": "3.2s",
+      "image": null
+    },
+    {
+      "action": "Task completed",
+      "timestamp": "2026-10-31T06:07:15Z",
+      "duration": null,
+      "image": null
+    }
+  ]
+}

@@ -1,0 +1,187 @@
+{
+  "run_id": "e52544b2-2e1c-4052-8456-c80bfa04c0b2",
+  "num_of_steps": 29,
+  "finished_at": "2026-10-31T08:23:41Z",
+  "steps": [
+    {
+      "action": "Navigate to Swiggy Instamart homepage",
+      "timestamp": "2026-10-31T08:17:58Z",
+      "duration": "13.9s",
+      "image": "step-00.jpg"
+    },
+    {
+      "action": "Wait for page to fully load",
+      "timestamp": "2026-10-31T08:18:14Z",
+      "duration": "4.5s",
+      "image": "step-01.jpg"
+    },
+    {
+      "action": "Check for cookie banner and location button",
+      "timestamp": "2026-10-31T08:18:21Z",
+      "duration": "2.3s",
+      "image": "step-02.jpg"
+    },
+    {
+      "action": "Find location/address button at top left",
+      "timestamp": "2026-10-31T08:18:28Z",
+      "duration": "2.5s",
+      "image": "step-03.jpg"
+    },
+    {
+      "action": "Find location button details",
+      "timestamp": "2026-10-31T08:18:50Z",
+      "duration": "2.4s",
+      "image": "step-04.jpg"
+    },
+    {
+      "action": "Open location popup to set delivery location",
+      "timestamp": "2026-10-31T08:19:03Z",
+      "duration": "1.8s",
+      "image": "step-05.jpg"
+    },
+    {
+      "action": "Click search box in location popup",
+      "timestamp": "2026-10-31T08:19:11Z",
+      "duration": "1.2s",
+      "image": "step-06.jpg"
+    },
+    {
+      "action": "Type pincode 560066",
+      "timestamp": "2026-10-31T08:19:16Z",
+      "duration": "1.7s",
+      "image": "step-07.jpg"
+    },
+    {
+      "action": "Click first suggestion for pincode 560066",
+      "timestamp": "2026-10-31T08:19:23Z",
+      "duration": "1.5s",
+      "image": "step-08.jpg"
+    },
+    {
+      "action": "Confirm the delivery location",
+      "timestamp": "2026-10-31T08:19:31Z",
+      "duration": "2.0s",
+      "image": "step-09.jpg"
+    },
+    {
+      "action": "Wait for page to fully load after confirming location",
+      "timestamp": "2026-10-31T08:19:39Z",
+      "duration": "10.3s",
+      "image": "step-10.jpg"
+    },
+    {
+      "action": "Close address re-check popup",
+      "timestamp": "2026-10-31T08:19:54Z",
+      "duration": "1.4s",
+      "image": "step-11.jpg"
+    },
+    {
+      "action": "Click search bar to start typing query",
+      "timestamp": "2026-10-31T08:20:02Z",
+      "duration": "2.0s",
+      "image": "step-12.jpg"
+    },
+    {
+      "action": "Type search query yoga bar protein bar",
+      "timestamp": "2026-10-31T08:20:08Z",
+      "duration": "1.0s",
+      "image": "step-13.jpg"
+    },
+    {
+      "action": "Submit search query for yoga bar protein bar",
+      "timestamp": "2026-10-31T08:20:12Z",
+      "duration": "0.9s",
+      "image": "step-14.jpg"
+    },
+    {
+      "action": "Wait for search results to load",
+      "timestamp": "2026-10-31T08:20:16Z",
+      "duration": "5.3s",
+      "image": "step-15.jpg"
+    },
+    {
+      "action": "Extract product data from search results",
+      "timestamp": "2026-10-31T08:20:25Z",
+      "duration": "2.2s",
+      "image": "step-16.jpg"
+    },
+    {
+      "action": "Read product cards from search results",
+      "timestamp": "2026-10-31T08:20:34Z",
+      "duration": "45.1s",
+      "image": "step-17.jpg"
+    },
+    {
+      "action": "Extract product card data from search results",
+      "timestamp": "2026-10-31T08:21:25Z",
+      "duration": "1.9s",
+      "image": "step-18.jpg"
+    },
+    {
+      "action": "Check current page state after search attempt",
+      "timestamp": "2026-10-31T08:21:32Z",
+      "duration": "2.2s",
+      "image": "step-19.jpg"
+    },
+    {
+      "action": "See current page state visually",
+      "timestamp": "2026-10-31T08:21:37Z",
+      "duration": "2.2s",
+      "image": "step-20.jpg"
+    },
+    {
+      "action": "Click search bar to focus it",
+      "timestamp": "2026-10-31T08:21:44Z",
+      "duration": "2.7s",
+      "image": "step-21.jpg"
+    },
+    {
+      "action": "Wait for search results to fully load",
+      "timestamp": "2026-10-31T08:21:49Z",
+      "duration": "5.3s",
+      "image": "step-22.jpg"
+    },
+    {
+      "action": "Type search query yoga bar protein bar",
+      "timestamp": "2026-10-31T08:21:58Z",
+      "duration": "1.6s",
+      "image": "step-23.jpg"
+    },
+    {
+      "action": "Extract first 8 product card details from search results",
+      "timestamp": "2026-10-31T08:22:05Z",
+      "duration": "2.7s",
+      "image": "step-24.jpg"
+    },
+    {
+      "action": "Read all product card details from search results",
+      "timestamp": "2026-10-31T08:22:11Z",
+      "duration": "10.0s",
+      "image": "step-25.jpg"
+    },
+    {
+      "action": "Extract detailed product prices and stock status",
+      "timestamp": "2026-10-31T08:22:26Z",
+      "duration": "2.2s",
+      "image": "step-26.jpg"
+    },
+    {
+      "action": "Extract prices, MRP, stock status for 8 products",
+      "timestamp": "2026-10-31T08:22:33Z",
+      "duration": "1.7s",
+      "image": "step-27.jpg"
+    },
+    {
+      "action": "Return final task results",
+      "timestamp": "2026-10-31T08:23:29Z",
+      "duration": "11.6s",
+      "image": null
+    },
+    {
+      "action": "Task completed",
+      "timestamp": "2026-10-31T08:23:41Z",
+      "duration": null,
+      "image": null
+    }
+  ]
+}

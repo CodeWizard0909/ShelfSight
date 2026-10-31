@@ -1,0 +1,117 @@
+{
+  "result": {
+    "location_set": true,
+    "delivery_eta_minutes": 22,
+    "products": [
+      {
+        "rank": 1,
+        "name": "Multigrain Energy Bars - Assorted Flavours",
+        "brand": "Yoga Bar",
+        "price": 789.32,
+        "mrp": 0,
+        "in_stock": true
+      },
+      {
+        "rank": 2,
+        "name": "Multigrain Energy Bars - Assorted Flavours",
+        "brand": "Yoga Bar",
+        "price": 526.21,
+        "mrp": 0,
+        "in_stock": true
+      },
+      {
+        "rank": 3,
+        "name": "Multigrain Energy Bars - Assorted Flavours",
+        "brand": "Yoga Bar",
+        "price": 298.98,
+        "mrp": 0,
+        "in_stock": true
+      },
+      {
+        "rank": 4,
+        "name": "Chocolate Chunk Nut Multigrain Energy Bar",
+        "brand": "Yoga Bar",
+        "price": 561.38,
+        "mrp": 0,
+        "in_stock": true
+      },
+      {
+        "rank": 5,
+        "name": "Chocolate Chunk Nut Multigrain Energy Bar",
+        "brand": "Yoga Bar",
+        "price": 112.13,
+        "mrp": 0,
+        "in_stock": true
+      },
+      {
+        "rank": 6,
+        "name": "Chocolate Chunk Nut Multigrain Energy Bar",
+        "brand": "Yoga Bar",
+        "price": 842.06,
+        "mrp": 0,
+        "in_stock": true
+      },
+      {
+        "rank": 7,
+        "name": "Breakfast Protein Bars - Assorted Flavours",
+        "brand": "Yoga Bar",
+        "price": 664.43,
+        "mrp": 0,
+        "in_stock": true
+      },
+      {
+        "rank": 8,
+        "name": "Breakfast Protein Bars - Assorted Flavours",
+        "brand": "Yoga Bar",
+        "price": 442.96,
+        "mrp": 0,
+        "in_stock": true
+      }
+    ]
+  },
+  "log": [
+    "Navigate to BigBasket yoga bar protein bar search results",
+    "Check page state and search results",
+    "Extract page content and search results",
+    "Wait for page to fully load",
+    "Check if products loaded and location status",
+    "Wait for products to fully load",
+    "Check product cards and header details",
+    "Extract full page content and product data",
+    "Open location selector to set pincode",
+    "Input pincode 560011 into location search",
+    "Select first pincode suggestion",
+    "Check homepage state after location set",
+    "Retry accessing the search results page",
+    "Dismiss the location notification toast",
+    "Click search input to enter query",
+    "Enter search query yoga bar protein bar",
+    "Submit search query to view results",
+    "Extract first 8 product details from search results",
+    "Wait for product listings to load",
+    "Check if product cards have loaded",
+    "Extract product listing content",
+    "Dismiss notification to clear UI",
+    "Check visible products after dismissing notification",
+    "Dismiss notification popup",
+    "Check current page content and products",
+    "Wait for products to render",
+    "Check if products have loaded after waiting",
+    "Check if product grid has rendered",
+    "Wait longer for products to load",
+    "Navigate to full search results page",
+    "Click search input to enter query",
+    "Wait for search results to fully load",
+    "Check current page state",
+    "Wait more for product listings to render",
+    "Click search input to refocus",
+    "Input search query for yoga bar protein bar",
+    "Verify product details from search results",
+    "Extract complete first 8 product details",
+    "Get complete visual product details",
+    "Get exact product details from dropdown",
+    "Return first 8 product results for yoga bar protein bar at Jayanagar 560011"
+  ],
+  "seconds": 671,
+  "run_id": "ec4fa5d3-35cb-4252-b4b6-f84f5104ea99"
+}

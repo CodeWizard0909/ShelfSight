@@ -1,0 +1,102 @@
+{
+  "result": {
+    "location_set": true,
+    "blocked": false,
+    "delivery_eta_minutes": 16,
+    "products": [
+      {
+        "rank": 1,
+        "name": "Yoga Bar Breakfast Protein Bar Dark Chocolate, 4g Protein, 17g Whole Grain, Fibre Rich, Mill...",
+        "brand": "Yoga Bar",
+        "price": 42,
+        "mrp": 65,
+        "in_stock": true
+      },
+      {
+        "rank": 2,
+        "name": "Pureboost Coffee Mocha Protein Bar",
+        "brand": "Pureboost",
+        "price": 100,
+        "mrp": 0,
+        "in_stock": true
+      },
+      {
+        "rank": 3,
+        "name": "Pureboost Choco Almond Protein Bar",
+        "brand": "Pureboost",
+        "price": 100,
+        "mrp": 0,
+        "in_stock": true
+      },
+      {
+        "rank": 4,
+        "name": "Yoga Bar Protein Minis; 4g Protein Bar; Chocolate Peanut Butter; Dark Chocolate Bar Rich in ...",
+        "brand": "Yoga Bar",
+        "price": 98,
+        "mrp": 175,
+        "in_stock": true
+      },
+      {
+        "rank": 5,
+        "name": "Yoga Bar 20g Protein Bar, Power Up, Choco Peanut Butter, No Added Sugar, Whey Powder",
+        "brand": "Yoga Bar",
+        "price": 89,
+        "mrp": 125,
+        "in_stock": true
+      },
+      {
+        "rank": 6,
+        "name": "Pureboost Chocolate Protein Bar",
+        "brand": "Pureboost",
+        "price": 100,
+        "mrp": 0,
+        "in_stock": true
+      },
+      {
+        "rank": 7,
+        "name": "Pureboost Choco Berry Protein Bar",
+        "brand": "Pureboost",
+        "price": 100,
+        "mrp": 0,
+        "in_stock": true
+      },
+      {
+        "rank": 8,
+        "name": "Yoga Bar Protein Wafer Cookies and Cream, 10g protein, 0% Maida",
+        "brand": "Yoga Bar",
+        "price": 39,
+        "mrp": 60,
+        "in_stock": true
+      }
+    ]
+  },
+  "error": null,
+  "log": [
+    "Navigate to Swiggy Instamart homepage",
+    "Wait for page to fully load",
+    "Retry loading the page after error",
+    "Wait for page to fully render after retry",
+    "Understand current page layout",
+    "Open location selector to set pincode",
+    "Focus the location search input",
+    "Type pincode 560011 to set delivery location",
+    "Select first pincode suggestion",
+    "Confirm the selected location pincode",
+    "Check if page is loaded and what's visible",
+    "Click search box to type query",
+    "Check current page state",
+    "Click search input to type query",
+    "Type yoga bar protein bar into search",
+    "See search results for yoga bar protein bar",
+    "Type yoga bar protein bar into search",
+    "Submit search query",
+    "Retry loading search results page",
+    "Retry loading search results",
+    "See search results for yoga bar protein bar",
+    "Extract search results products",
+    "Check search results page",
+    "Submit final search results for yoga bar protein bar"
+  ],
+  "seconds": 233,
+  "run_id": "224fbd86-e150-4566-88ef-2df952220de7"
+}

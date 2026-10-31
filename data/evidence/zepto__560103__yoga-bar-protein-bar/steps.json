@@ -1,0 +1,67 @@
+{
+  "run_id": "0a4f4639-a789-49ef-940d-96827cbb0b1e",
+  "num_of_steps": 9,
+  "finished_at": "2026-10-31T06:27:11Z",
+  "steps": [
+    {
+      "action": "Visit Zepto search page for protein bars",
+      "timestamp": "2026-10-31T06:21:54Z",
+      "duration": "7.9s",
+      "image": "step-00.jpg"
+    },
+    {
+      "action": "Check page content and any location popup",
+      "timestamp": "2026-10-31T06:22:03Z",
+      "duration": "2.7s",
+      "image": "step-01.jpg"
+    },
+    {
+      "action": "Wait for page to load",
+      "timestamp": "2026-10-31T06:22:20Z",
+      "duration": "5.2s",
+      "image": "step-02.jpg"
+    },
+    {
+      "action": "Check page content details",
+      "timestamp": "2026-10-31T06:22:46Z",
+      "duration": "2.7s",
+      "image": "step-03.jpg"
+    },
+    {
+      "action": "Click to select location and set pincode",
+      "timestamp": "2026-10-31T06:22:52Z",
+      "duration": "1.3s",
+      "image": "step-04.jpg"
+    },
+    {
+      "action": "Type pincode 560103 into address search",
+      "timestamp": "2026-10-31T06:23:33Z",
+      "duration": "2.2s",
+      "image": "step-05.jpg"
+    },
+    {
+      "action": "Select first address suggestion",
+      "timestamp": "2026-10-31T06:24:07Z",
+      "duration": "5.1s",
+      "image": "step-06.jpg"
+    },
+    {
+      "action": "Extract first 8 product details from search results",
+      "timestamp": "2026-10-31T06:25:01Z",
+      "duration": "2.8s",
+      "image": "step-07.jpg"
+    },
+    {
+      "action": "Return search results for yoga bar protein bar",
+      "timestamp": "2026-10-31T06:27:08Z",
+      "duration": "0.0s",
+      "image": null
+    },
+    {
+      "action": "Task completed",
+      "timestamp": "2026-10-31T06:27:10Z",
+      "duration": null,
+      "image": null
+    }
+  ]
+}

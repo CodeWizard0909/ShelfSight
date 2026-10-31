@@ -1,0 +1,86 @@
+{
+  "result": {
+    "location_set": true,
+    "delivery_eta_minutes": 7,
+    "products": [
+      {
+        "rank": 1,
+        "name": "Yoga Bar Protein Wafer with 10g Protein | Strawberry Pop | 0% Maida",
+        "brand": "Yoga Bar",
+        "price": 42,
+        "mrp": 60,
+        "in_stock": true
+      },
+      {
+        "rank": 2,
+        "name": "Yoga Bar Breakfast Protein Bar Dark Chocolate, 4g Protein, 17g Whole Grain, Fibre Rich, Millets,Oats",
+        "brand": "Yoga Bar",
+        "price": 43,
+        "mrp": 65,
+        "in_stock": true
+      },
+      {
+        "rank": 3,
+        "name": "Yoga Bar Breakfast Protein Bar Dark Chocolate, 4g Protein, 17g Whole Grain, Fibre Rich, Millets,Oats",
+        "brand": "Yoga Bar",
+        "price": 43,
+        "mrp": 65,
+        "in_stock": true
+      },
+      {
+        "rank": 4,
+        "name": "Yoga Bar 5g Protein Bar, Dark Chocolate & Cranberry, Dates, Protein Blend, Cashew, Dark Chocolate",
+        "brand": "Yoga Bar",
+        "price": 29,
+        "mrp": 35,
+        "in_stock": true
+      },
+      {
+        "rank": 5,
+        "name": "Yoga Bar 10g Protein Bar, Blueberry Blast, Date Sweetened, Raw Cold Pressed",
+        "brand": "Yoga Bar",
+        "price": 55,
+        "mrp": 65,
+        "in_stock": true
+      },
+      {
+        "rank": 6,
+        "name": "Yoga Bar Chocolate Chunk Multigrain Energy Bar, With Millets, Chocolate, Almonds, High Dietary Fibre",
+        "brand": "Yoga Bar",
+        "price": 35,
+        "mrp": 55,
+        "in_stock": true
+      },
+      {
+        "rank": 7,
+        "name": "Yoga Bar Protein Wafer with 10g Protein | Cookies and Cream | 0% Maida",
+        "brand": "Yoga Bar",
+        "price": 41,
+        "mrp": 60,
+        "in_stock": true
+      },
+      {
+        "rank": 8,
+        "name": "Yoga Bar Protein Wafer with 10g Protein | Cookies and Cream | 0% Maida",
+        "brand": "Yoga Bar",
+        "price": 41,
+        "mrp": 60,
+        "in_stock": true
+      }
+    ]
+  },
+  "log": [
+    "Visit Zepto search page for yoga bar protein bar",
+    "Wait for page content to load",
+    "Click to set delivery location",
+    "Check delivery ETA and current location",
+    "Enter pincode 560038 for delivery location",
+    "Select first location suggestion",
+    "Extract first 8 products details",
+    "Verify first 8 products and delivery ETA",
+    "Get exact first 8 products",
+    "Return final results with location set, first 8 products and delivery ETA"
+  ],
+  "seconds": 298,
+  "run_id": "ccd6844d-6b81-42d7-a6dd-b5441bb6519c"
+}

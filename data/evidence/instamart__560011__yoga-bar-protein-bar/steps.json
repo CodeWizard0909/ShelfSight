@@ -1,0 +1,157 @@
+{
+  "run_id": "224fbd86-e150-4566-88ef-2df952220de7",
+  "num_of_steps": 24,
+  "finished_at": "2026-10-31T08:05:55Z",
+  "steps": [
+    {
+      "action": "Navigate to Swiggy Instamart homepage",
+      "timestamp": "2026-10-31T08:02:11Z",
+      "duration": "7.9s",
+      "image": "step-00.jpg"
+    },
+    {
+      "action": "Wait for page to fully load",
+      "timestamp": "2026-10-31T08:02:21Z",
+      "duration": "4.4s",
+      "image": "step-01.jpg"
+    },
+    {
+      "action": "Retry loading the page after error",
+      "timestamp": "2026-10-31T08:02:28Z",
+      "duration": "13.6s",
+      "image": "step-02.jpg"
+    },
+    {
+      "action": "Wait for page to fully render after retry",
+      "timestamp": "2026-10-31T08:02:52Z",
+      "duration": "5.3s",
+      "image": "step-03.jpg"
+    },
+    {
+      "action": "Understand current page layout",
+      "timestamp": "2026-10-31T08:03:03Z",
+      "duration": "2.2s",
+      "image": "step-04.jpg"
+    },
+    {
+      "action": "Open location selector to set pincode",
+      "timestamp": "2026-10-31T08:03:08Z",
+      "duration": "1.6s",
+      "image": "step-05.jpg"
+    },
+    {
+      "action": "Focus the location search input",
+      "timestamp": "2026-10-31T08:03:14Z",
+      "duration": "1.6s",
+      "image": "step-06.jpg"
+    },
+    {
+      "action": "Type pincode 560011 to set delivery location",
+      "timestamp": "2026-10-31T08:03:18Z",
+      "duration": "4.6s",
+      "image": "step-07.jpg"
+    },
+    {
+      "action": "Select first pincode suggestion",
+      "timestamp": "2026-10-31T08:03:25Z",
+      "duration": "3.9s",
+      "image": "step-08.jpg"
+    },
+    {
+      "action": "Confirm the selected location pincode",
+      "timestamp": "2026-10-31T08:03:31Z",
+      "duration": "2.5s",
+      "image": "step-09.jpg"
+    },
+    {
+      "action": "Check if page is loaded and what's visible",
+      "timestamp": "2026-10-31T08:03:37Z",
+      "duration": "1.9s",
+      "image": "step-10.jpg"
+    },
+    {
+      "action": "Click search box to type query",
+      "timestamp": "2026-10-31T08:03:47Z",
+      "duration": "1.2s",
+      "image": "step-11.jpg"
+    },
+    {
+      "action": "Check current page state",
+      "timestamp": "2026-10-31T08:03:53Z",
+      "duration": "2.1s",
+      "image": "step-12.jpg"
+    },
+    {
+      "action": "Click search input to type query",
+      "timestamp": "2026-10-31T08:04:01Z",
+      "duration": "1.6s",
+      "image": "step-13.jpg"
+    },
+    {
+      "action": "Type yoga bar protein bar into search",
+      "timestamp": "2026-10-31T08:04:08Z",
+      "duration": "1.3s",
+      "image": "step-14.jpg"
+    },
+    {
+      "action": "See search results for yoga bar protein bar",
+      "timestamp": "2026-10-31T08:04:13Z",
+      "duration": "1.4s",
+      "image": "step-15.jpg"
+    },
+    {
+      "action": "Type yoga bar protein bar into search",
+      "timestamp": "2026-10-31T08:04:19Z",
+      "duration": "7.6s",
+      "image": "step-16.jpg"
+    },
+    {
+      "action": "Submit search query",
+      "timestamp": "2026-10-31T08:04:30Z",
+      "duration": "6.8s",
+      "image": "step-17.jpg"
+    },
+    {
+      "action": "Retry loading search results page",
+      "timestamp": "2026-10-31T08:04:39Z",
+      "duration": "1.0s",
+      "image": "step-18.jpg"
+    },
+    {
+      "action": "Retry loading search results",
+      "timestamp": "2026-10-31T08:04:46Z",
+      "duration": "9.6s",
+      "image": "step-19.jpg"
+    },
+    {
+      "action": "See search results for yoga bar protein bar",
+      "timestamp": "2026-10-31T08:04:58Z",
+      "duration": "6.4s",
+      "image": "step-20.jpg"
+    },
+    {
+      "action": "Extract search results products",
+      "timestamp": "2026-10-31T08:05:10Z",
+      "duration": "8.3s",
+      "image": "step-21.jpg"
+    },
+    {
+      "action": "Check search results page",
+      "timestamp": "2026-10-31T08:05:22Z",
+      "duration": "1.7s",
+      "image": "step-22.jpg"
+    },
+    {
+      "action": "Submit final search results for yoga bar protein bar",
+      "timestamp": "2026-10-31T08:05:47Z",
+      "duration": "7.0s",
+      "image": null
+    },
+    {
+      "action": "Task completed",
+      "timestamp": "2026-10-31T08:05:54Z",
+      "duration": null,
+      "image": null
+    }
+  ]
+}

@@ -1,0 +1,90 @@
+{
+  "result": {
+    "location_set": true,
+    "delivery_eta_minutes": 6,
+    "products": [
+      {
+        "rank": 1,
+        "name": "Multigrain Energy Bars - Assorted Flavours (3x350 g)",
+        "brand": "Yoga Bar",
+        "price": 789.32,
+        "mrp": 1489.28,
+        "in_stock": true
+      },
+      {
+        "rank": 2,
+        "name": "Multigrain Energy Bars - Assorted Flavours (2x350 g)",
+        "brand": "Yoga Bar",
+        "price": 526.21,
+        "mrp": 992.85,
+        "in_stock": true
+      },
+      {
+        "rank": 3,
+        "name": "Multigrain Energy Bars - Assorted Flavours (350 g)",
+        "brand": "Yoga Bar",
+        "price": 298.98,
+        "mrp": 498.3,
+        "in_stock": true
+      },
+      {
+        "rank": 4,
+        "name": "Yo Chos Choco Cereal - No Maida, Rich In Protein, Gluten Free, Healthy Breakfast (345 g)",
+        "brand": "Yoga Bar",
+        "price": 99.04,
+        "mrp": 230.33,
+        "in_stock": true
+      },
+      {
+        "rank": 5,
+        "name": "Breakfast Protein Bars - Assorted Flavours (2x280 g)",
+        "brand": "Yoga Bar",
+        "price": 442.96,
+        "mrp": 598.6,
+        "in_stock": true
+      },
+      {
+        "rank": 6,
+        "name": "Breakfast Protein Bars - Assorted Flavours (3x280 g)",
+        "brand": "Yoga Bar",
+        "price": 664.43,
+        "mrp": 897.88,
+        "in_stock": true
+      },
+      {
+        "rank": 7,
+        "name": "Chocolate Chunk Nut Multigrain Energy Bar (2x350 g)",
+        "brand": "Yoga Bar",
+        "price": 561.38,
+        "mrp": 1002.46,
+        "in_stock": true
+      },
+      {
+        "rank": 8,
+        "name": "Chocolate Chunk Nut Multigrain Energy Bar (6x35 g)",
+        "brand": "Yoga Bar",
+        "price": 224.27,
+        "mrp": 299.03,
+        "in_stock": true
+      }
+    ]
+  },
+  "log": [
+    "Visit BigBasket search page for yoga bar protein bar",
+    "Click to set delivery location",
+    "Input pincode 560102 for location",
+    "Select first location suggestion for pincode 560102",
+    "Navigate to search results for yoga bar protein bar again",
+    "Dismiss location confirmation popup",
+    "Check if search results are displayed",
+    "Focus search input to type query",
+    "Type search query for yoga bar protein bar",
+    "Click to view full search results page",
+    "Extract first 8 product details from search results",
+    "Extract detailed product info including MRP from search results",
+    "Extract MRP prices for first 8 products",
+    "Submit final product data for yoga bar protein bar search"
+  ],
+  "seconds": 251,
+  "run_id": "38bb7fd8-2a95-4dd9-95cf-c3d328ae5145"
+}

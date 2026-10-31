@@ -1,0 +1,85 @@
+{
+  "result": {
+    "location_set": true,
+    "delivery_eta_minutes": 8,
+    "products": [
+      {
+        "rank": 1,
+        "name": "Yoga Bar Breakfast Protein Bar Dark Chocolate, 4g Protein, 17g Whole Grain, Fibre Rich, Millets,Oats",
+        "brand": "Yoga Bar",
+        "price": 44,
+        "mrp": 60,
+        "in_stock": true
+      },
+      {
+        "rank": 2,
+        "name": "Yoga Bar Breakfast Protein Bar Dark Chocolate, 4g Protein, 17g Whole Grain, Fibre Rich, Millets,Oats",
+        "brand": "Yoga Bar",
+        "price": 44,
+        "mrp": 60,
+        "in_stock": true
+      },
+      {
+        "rank": 3,
+        "name": "Yoga Bar 10g Protein Bar, Blueberry Blast, Date Sweetened, Raw Cold Pressed",
+        "brand": "Yoga Bar",
+        "price": 55,
+        "mrp": 65,
+        "in_stock": true
+      },
+      {
+        "rank": 4,
+        "name": "Yoga Bar Chocolate Chunk Multigrain Energy Bar, With Millets, Chocolate, Almonds, High Dietary Fibre",
+        "brand": "Yoga Bar",
+        "price": 36,
+        "mrp": 55,
+        "in_stock": true
+      },
+      {
+        "rank": 5,
+        "name": "Yoga Bar Protein Wafer with 10g Protein | Cookies and Cream | 0% Maida",
+        "brand": "Yoga Bar",
+        "price": 42,
+        "mrp": 60,
+        "in_stock": true
+      },
+      {
+        "rank": 6,
+        "name": "Yoga Bar Protein Wafer with 10g Protein | Cookies and Cream | 0% Maida",
+        "brand": "Yoga Bar",
+        "price": 42,
+        "mrp": 60,
+        "in_stock": true
+      },
+      {
+        "rank": 7,
+        "name": "Yoga Bar Breakfast Protein Bar Apricot Fig, 6g Protein, Fiber Rich , Omega - 3, Millets, Almonds",
+        "brand": "Yoga Bar",
+        "price": 42,
+        "mrp": 60,
+        "in_stock": true
+      },
+      {
+        "rank": 8,
+        "name": "Yoga Bar Breakfast Protein Bar Apricot Fig, 6g Protein, Fiber Rich , Omega - 3, Millets, Almonds",
+        "brand": "Yoga Bar",
+        "price": 42,
+        "mrp": 60,
+        "in_stock": true
+      }
+    ]
+  },
+  "log": [
+    "Navigate to Zepto search page for protein bars",
+    "Wait for page to fully load",
+    "Open location selector to set pincode",
+    "Check if location popup appeared",
+    "Enter pincode 560034 for location",
+    "Select first location suggestion for pincode 560034",
+    "Extract product details and ETA",
+    "Extract first 8 product details",
+    "Return first 8 product details and delivery ETA"
+  ],
+  "seconds": 222,
+  "run_id": "984bff56-51fa-4221-9993-4bfb49e6d729"
+}

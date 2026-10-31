@@ -1,0 +1,445 @@
+{
+  "run_id": "338354d1-3e78-4294-b3c5-327bbdb230f6",
+  "num_of_steps": 72,
+  "finished_at": "2026-10-31T06:18:59Z",
+  "steps": [
+    {
+      "action": "Navigate to yoga bar protein bar search results",
+      "timestamp": "2026-10-31T06:06:42Z",
+      "duration": "18.5s",
+      "image": "step-00.jpg"
+    },
+    {
+      "action": "Check page state and look for search results",
+      "timestamp": "2026-10-31T06:07:09Z",
+      "duration": "1.8s",
+      "image": "step-01.jpg"
+    },
+    {
+      "action": "Check page layout and elements",
+      "timestamp": "2026-10-31T06:07:18Z",
+      "duration": "11.3s",
+      "image": "step-02.jpg"
+    },
+    {
+      "action": "Check page content details",
+      "timestamp": "2026-10-31T06:07:36Z",
+      "duration": "1.6s",
+      "image": "step-03.jpg"
+    },
+    {
+      "action": "Set delivery location to pincode 560034",
+      "timestamp": "2026-10-31T06:07:57Z",
+      "duration": "11.8s",
+      "image": "step-04.jpg"
+    },
+    {
+      "action": "Type pincode 560034 for location",
+      "timestamp": "2026-10-31T06:08:21Z",
+      "duration": "2.5s",
+      "image": "step-05.jpg"
+    },
+    {
+      "action": "Select first location suggestion",
+      "timestamp": "2026-10-31T06:08:34Z",
+      "duration": "4.6s",
+      "image": "step-06.jpg"
+    },
+    {
+      "action": "Go back to search results for yoga bar protein bar",
+      "timestamp": "2026-10-31T06:08:43Z",
+      "duration": "10.6s",
+      "image": "step-07.jpg"
+    },
+    {
+      "action": "Dismiss location notification",
+      "timestamp": "2026-10-31T06:08:57Z",
+      "duration": "2.4s",
+      "image": "step-08.jpg"
+    },
+    {
+      "action": "Wait for page to load search results",
+      "timestamp": "2026-10-31T06:09:03Z",
+      "duration": "3.2s",
+      "image": "step-09.jpg"
+    },
+    {
+      "action": "Check search results for yoga bar protein bar",
+      "timestamp": "2026-10-31T06:09:08Z",
+      "duration": "1.6s",
+      "image": "step-10.jpg"
+    },
+    {
+      "action": "Wait for search results to load",
+      "timestamp": "2026-10-31T06:09:11Z",
+      "duration": "5.3s",
+      "image": "step-11.jpg"
+    },
+    {
+      "action": "Check page content for product listings",
+      "timestamp": "2026-10-31T06:09:20Z",
+      "duration": "1.5s",
+      "image": "step-12.jpg"
+    },
+    {
+      "action": "Check page visual state for product results",
+      "timestamp": "2026-10-31T06:09:28Z",
+      "duration": "1.5s",
+      "image": "step-13.jpg"
+    },
+    {
+      "action": "Extract first 8 product details from search results",
+      "timestamp": "2026-10-31T06:09:37Z",
+      "duration": "1.3s",
+      "image": "step-14.jpg"
+    },
+    {
+      "action": "Visual check of product listings",
+      "timestamp": "2026-10-31T06:09:50Z",
+      "duration": "2.0s",
+      "image": "step-15.jpg"
+    },
+    {
+      "action": "Wait longer for products to load",
+      "timestamp": "2026-10-31T06:09:54Z",
+      "duration": "5.3s",
+      "image": "step-16.jpg"
+    },
+    {
+      "action": "Check if page has loaded products",
+      "timestamp": "2026-10-31T06:10:07Z",
+      "duration": "3.7s",
+      "image": "step-17.jpg"
+    },
+    {
+      "action": "Focus search bar to trigger search",
+      "timestamp": "2026-10-31T06:10:20Z",
+      "duration": "2.1s",
+      "image": "step-18.jpg"
+    },
+    {
+      "action": "Refresh the search results page",
+      "timestamp": "2026-10-31T06:10:25Z",
+      "duration": "12.6s",
+      "image": "step-19.jpg"
+    },
+    {
+      "action": "Wait for page content to fully load",
+      "timestamp": "2026-10-31T06:10:40Z",
+      "duration": "8.2s",
+      "image": "step-20.jpg"
+    },
+    {
+      "action": "Visual check of page content",
+      "timestamp": "2026-10-31T06:10:50Z",
+      "duration": "4.2s",
+      "image": "step-21.jpg"
+    },
+    {
+      "action": "Focus search bar",
+      "timestamp": "2026-10-31T06:10:57Z",
+      "duration": "3.0s",
+      "image": "step-22.jpg"
+    },
+    {
+      "action": "Type yoga bar protein bar search query",
+      "timestamp": "2026-10-31T06:11:01Z",
+      "duration": "10.8s",
+      "image": "step-23.jpg"
+    },
+    {
+      "action": "Close autocomplete and go to search results",
+      "timestamp": "2026-10-31T06:11:14Z",
+      "duration": "2.1s",
+      "image": "step-24.jpg"
+    },
+    {
+      "action": "Type yoga bar protein bar search query",
+      "timestamp": "2026-10-31T06:11:18Z",
+      "duration": "1.8s",
+      "image": "step-25.jpg"
+    },
+    {
+      "action": "Submit search query",
+      "timestamp": "2026-10-31T06:11:22Z",
+      "duration": "1.6s",
+      "image": "step-26.jpg"
+    },
+    {
+      "action": "Click Hide Filter to see products",
+      "timestamp": "2026-10-31T06:11:27Z",
+      "duration": "10.8s",
+      "image": "step-27.jpg"
+    },
+    {
+      "action": "Wait for products to load",
+      "timestamp": "2026-10-31T06:11:41Z",
+      "duration": "5.3s",
+      "image": "step-28.jpg"
+    },
+    {
+      "action": "Click View all search results",
+      "timestamp": "2026-10-31T06:11:48Z",
+      "duration": "2.1s",
+      "image": "step-29.jpg"
+    },
+    {
+      "action": "Wait for search results to load",
+      "timestamp": "2026-10-31T06:11:56Z",
+      "duration": "5.5s",
+      "image": "step-30.jpg"
+    },
+    {
+      "action": "Check page for loaded products",
+      "timestamp": "2026-10-31T06:12:04Z",
+      "duration": "1.7s",
+      "image": "step-31.jpg"
+    },
+    {
+      "action": "Visit full search results page",
+      "timestamp": "2026-10-31T06:12:08Z",
+      "duration": "10.5s",
+      "image": "step-32.jpg"
+    },
+    {
+      "action": "Check for product data on search page",
+      "timestamp": "2026-10-31T06:12:21Z",
+      "duration": "2.3s",
+      "image": "step-33.jpg"
+    },
+    {
+      "action": "Wait longer for products to load",
+      "timestamp": "2026-10-31T06:12:25Z",
+      "duration": "10.3s",
+      "image": "step-34.jpg"
+    },
+    {
+      "action": "Extract product data from page DOM",
+      "timestamp": "2026-10-31T06:12:37Z",
+      "duration": "8.0s",
+      "image": "step-35.jpg"
+    },
+    {
+      "action": "Visual check of loaded products",
+      "timestamp": "2026-10-31T06:12:49Z",
+      "duration": "1.6s",
+      "image": "step-36.jpg"
+    },
+    {
+      "action": "Scroll to bottom to trigger lazy loading",
+      "timestamp": "2026-10-31T06:12:51Z",
+      "duration": "0.9s",
+      "image": "step-37.jpg"
+    },
+    {
+      "action": "Check for embedded product data",
+      "timestamp": "2026-10-31T06:12:55Z",
+      "duration": "1.6s",
+      "image": "step-38.jpg"
+    },
+    {
+      "action": "Scroll to top of page",
+      "timestamp": "2026-10-31T06:13:00Z",
+      "duration": "1.0s",
+      "image": "step-39.jpg"
+    },
+    {
+      "action": "Focus search input",
+      "timestamp": "2026-10-31T06:13:04Z",
+      "duration": "2.2s",
+      "image": "step-40.jpg"
+    },
+    {
+      "action": "Visual check for product data",
+      "timestamp": "2026-10-31T06:13:10Z",
+      "duration": "1.6s",
+      "image": "step-41.jpg"
+    },
+    {
+      "action": "Scroll to bottom to see all products",
+      "timestamp": "2026-10-31T06:13:14Z",
+      "duration": "0.9s",
+      "image": "step-42.jpg"
+    },
+    {
+      "action": "Scroll to top to see products",
+      "timestamp": "2026-10-31T06:13:16Z",
+      "duration": "0.9s",
+      "image": "step-43.jpg"
+    },
+    {
+      "action": "Go to search results page",
+      "timestamp": "2026-10-31T06:13:19Z",
+      "duration": "10.3s",
+      "image": "step-44.jpg"
+    },
+    {
+      "action": "Dismiss notification popup",
+      "timestamp": "2026-10-31T06:13:53Z",
+      "duration": "2.4s",
+      "image": "step-45.jpg"
+    },
+    {
+      "action": "Click to go to full search results",
+      "timestamp": "2026-10-31T06:14:13Z",
+      "duration": "1.8s",
+      "image": "step-46.jpg"
+    },
+    {
+      "action": "Close location dropdown",
+      "timestamp": "2026-10-31T06:14:35Z",
+      "duration": "2.0s",
+      "image": "step-47.jpg"
+    },
+    {
+      "action": "Focus search bar",
+      "timestamp": "2026-10-31T06:15:06Z",
+      "duration": "1.7s",
+      "image": "step-48.jpg"
+    },
+    {
+      "action": "Type yoga bar protein bar search query",
+      "timestamp": "2026-10-31T06:15:29Z",
+      "duration": "1.7s",
+      "image": "step-49.jpg"
+    },
+    {
+      "action": "Click View all search results link",
+      "timestamp": "2026-10-31T06:15:36Z",
+      "duration": "2.0s",
+      "image": "step-50.jpg"
+    },
+    {
+      "action": "Get exact product details from dropdown",
+      "timestamp": "2026-10-31T06:15:41Z",
+      "duration": "2.8s",
+      "image": "step-51.jpg"
+    },
+    {
+      "action": "Click View all search results",
+      "timestamp": "2026-10-31T06:15:49Z",
+      "duration": "1.1s",
+      "image": "step-52.jpg"
+    },
+    {
+      "action": "Wait for page to load",
+      "timestamp": "2026-10-31T06:15:53Z",
+      "duration": "5.3s",
+      "image": "step-53.jpg"
+    },
+    {
+      "action": "Wait for full page load",
+      "timestamp": "2026-10-31T06:16:01Z",
+      "duration": "8.3s",
+      "image": "step-54.jpg"
+    },
+    {
+      "action": "Extract all product details from search results",
+      "timestamp": "2026-10-31T06:16:13Z",
+      "duration": "3.2s",
+      "image": "step-55.jpg"
+    },
+    {
+      "action": "Check MRP values and delivery ETA",
+      "timestamp": "2026-10-31T06:16:23Z",
+      "duration": "2.0s",
+      "image": "step-56.jpg"
+    },
+    {
+      "action": "Find MRP values for all products",
+      "timestamp": "2026-10-31T06:16:29Z",
+      "duration": "2.6s",
+      "image": "step-57.jpg"
+    },
+    {
+      "action": "Find MRP values on product cards",
+      "timestamp": "2026-10-31T06:16:36Z",
+      "duration": "2.3s",
+      "image": "step-58.jpg"
+    },
+    {
+      "action": "Extract MRP values from DOM",
+      "timestamp": "2026-10-31T06:16:45Z",
+      "duration": "2.9s",
+      "image": "step-59.jpg"
+    },
+    {
+      "action": "Go to full search results page",
+      "timestamp": "2026-10-31T06:16:52Z",
+      "duration": "12.6s",
+      "image": "step-60.jpg"
+    },
+    {
+      "action": "Click View all search results",
+      "timestamp": "2026-10-31T06:17:08Z",
+      "duration": "2.1s",
+      "image": "step-61.jpg"
+    },
+    {
+      "action": "Close location dropdown",
+      "timestamp": "2026-10-31T06:17:16Z",
+      "duration": "1.4s",
+      "image": "step-62.jpg"
+    },
+    {
+      "action": "Click view all search results to go to full results page",
+      "timestamp": "2026-10-31T06:17:25Z",
+      "duration": "1.4s",
+      "image": "step-63.jpg"
+    },
+    {
+      "action": "Close dropdown",
+      "timestamp": "2026-10-31T06:17:35Z",
+      "duration": "1.4s",
+      "image": "step-64.jpg"
+    },
+    {
+      "action": "Focus search input",
+      "timestamp": "2026-10-31T06:17:45Z",
+      "duration": "1.1s",
+      "image": "step-65.jpg"
+    },
+    {
+      "action": "Get complete product details with MRP values",
+      "timestamp": "2026-10-31T06:17:52Z",
+      "duration": "1.6s",
+      "image": "step-66.jpg"
+    },
+    {
+      "action": "Extract product details with MRP",
+      "timestamp": "2026-10-31T06:18:02Z",
+      "duration": "1.5s",
+      "image": "step-67.jpg"
+    },
+    {
+      "action": "Focus search bar",
+      "timestamp": "2026-10-31T06:18:08Z",
+      "duration": "1.1s",
+      "image": "step-68.jpg"
+    },
+    {
+      "action": "Type yoga bar protein bar to get dropdown results",
+      "timestamp": "2026-10-31T06:18:17Z",
+      "duration": "1.9s",
+      "image": "step-69.jpg"
+    },
+    {
+      "action": "Close dropdown",
+      "timestamp": "2026-10-31T06:18:24Z",
+      "duration": "1.9s",
+      "image": "step-70.jpg"
+    },
+    {
+      "action": "Return first 8 products with details",
+      "timestamp": "2026-10-31T06:18:42Z",
+      "duration": "0.0s",
+      "image": null
+    },
+    {
+      "action": "Task completed",
+      "timestamp": "2026-10-31T06:18:58Z",
+      "duration": null,
+      "image": null
+    }
+  ]
+}

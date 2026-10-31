@@ -1,0 +1,55 @@
+{
+  "run_id": "2bb23d8b-5b34-4678-bf98-2a4e2bfa1663",
+  "num_of_steps": 7,
+  "finished_at": "2026-10-31T07:16:14Z",
+  "steps": [
+    {
+      "action": "Visit Blinkit search results for yoga bar protein bar",
+      "timestamp": "2026-10-31T07:14:28Z",
+      "duration": "16.1s",
+      "image": "step-00.jpg"
+    },
+    {
+      "action": "Check current delivery location status",
+      "timestamp": "2026-10-31T07:14:56Z",
+      "duration": "1.6s",
+      "image": "step-01.jpg"
+    },
+    {
+      "action": "Type pincode 560100 to set delivery location",
+      "timestamp": "2026-10-31T07:15:08Z",
+      "duration": "1.8s",
+      "image": "step-02.jpg"
+    },
+    {
+      "action": "Select first suggestion for pincode 560100",
+      "timestamp": "2026-10-31T07:15:17Z",
+      "duration": "4.7s",
+      "image": "step-03.jpg"
+    },
+    {
+      "action": "Verify location set to 560100/Electronic City",
+      "timestamp": "2026-10-31T07:15:27Z",
+      "duration": "1.6s",
+      "image": "step-04.jpg"
+    },
+    {
+      "action": "Extract first 8 product details from search results",
+      "timestamp": "2026-10-31T07:15:37Z",
+      "duration": "2.5s",
+      "image": "step-05.jpg"
+    },
+    {
+      "action": "Return extracted first 8 products from Blinkit search",
+      "timestamp": "2026-10-31T07:16:11Z",
+      "duration": "2.6s",
+      "image": null
+    },
+    {
+      "action": "Task completed",
+      "timestamp": "2026-10-31T07:16:14Z",
+      "duration": null,
+      "image": null
+    }
+  ]
+}

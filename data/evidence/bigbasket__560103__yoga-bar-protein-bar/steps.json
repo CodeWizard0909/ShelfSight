@@ -1,0 +1,241 @@
+{
+  "run_id": "8115e8bf-a00b-4dfe-b2cf-908bceec8ec1",
+  "num_of_steps": 38,
+  "finished_at": "2026-10-31T06:36:58Z",
+  "steps": [
+    {
+      "action": "Navigate to bigbasket search results for yoga bar protein bar",
+      "timestamp": "2026-10-31T06:27:18Z",
+      "duration": "18.4s",
+      "image": "step-00.jpg"
+    },
+    {
+      "action": "Check if search results are displayed",
+      "timestamp": "2026-10-31T06:27:38Z",
+      "duration": "3.1s",
+      "image": "step-01.jpg"
+    },
+    {
+      "action": "Open location selector to set pincode",
+      "timestamp": "2026-10-31T06:27:44Z",
+      "duration": "11.9s",
+      "image": "step-02.jpg"
+    },
+    {
+      "action": "Enter pincode 560103 for location",
+      "timestamp": "2026-10-31T06:27:59Z",
+      "duration": "3.8s",
+      "image": "step-03.jpg"
+    },
+    {
+      "action": "Select first location suggestion",
+      "timestamp": "2026-10-31T06:28:11Z",
+      "duration": "11.5s",
+      "image": "step-04.jpg"
+    },
+    {
+      "action": "Find search bar on the page",
+      "timestamp": "2026-10-31T06:28:25Z",
+      "duration": "1.3s",
+      "image": "step-05.jpg"
+    },
+    {
+      "action": "Bypass access denied error on BigBasket",
+      "timestamp": "2026-10-31T06:28:30Z",
+      "duration": "2.4s",
+      "image": "step-06.jpg"
+    },
+    {
+      "action": "Navigate to BigBasket search results after reconfiguration",
+      "timestamp": "2026-10-31T06:28:52Z",
+      "duration": "12.4s",
+      "image": "step-07.jpg"
+    },
+    {
+      "action": "Understand current page state and layout",
+      "timestamp": "2026-10-31T06:29:21Z",
+      "duration": "1.9s",
+      "image": "step-08.jpg"
+    },
+    {
+      "action": "Input search query for yoga bar protein bar",
+      "timestamp": "2026-10-31T06:29:33Z",
+      "duration": "1.8s",
+      "image": "step-09.jpg"
+    },
+    {
+      "action": "Open location selector to set pincode",
+      "timestamp": "2026-10-31T06:29:47Z",
+      "duration": "3.3s",
+      "image": "step-10.jpg"
+    },
+    {
+      "action": "Enter pincode 560103 for location",
+      "timestamp": "2026-10-31T06:30:03Z",
+      "duration": "5.4s",
+      "image": "step-11.jpg"
+    },
+    {
+      "action": "Select first location suggestion",
+      "timestamp": "2026-10-31T06:30:19Z",
+      "duration": "8.5s",
+      "image": "step-12.jpg"
+    },
+    {
+      "action": "Submit search query for yoga bar protein bar",
+      "timestamp": "2026-10-31T06:30:39Z",
+      "duration": "2.0s",
+      "image": "step-13.jpg"
+    },
+    {
+      "action": "Enter search query for yoga bar protein bar",
+      "timestamp": "2026-10-31T06:30:56Z",
+      "duration": "3.4s",
+      "image": "step-14.jpg"
+    },
+    {
+      "action": "Go to full search results page",
+      "timestamp": "2026-10-31T06:31:12Z",
+      "duration": "1.7s",
+      "image": "step-15.jpg"
+    },
+    {
+      "action": "Navigate to search results page directly",
+      "timestamp": "2026-10-31T06:31:23Z",
+      "duration": "12.6s",
+      "image": "step-16.jpg"
+    },
+    {
+      "action": "Focus search input",
+      "timestamp": "2026-10-31T06:31:44Z",
+      "duration": "2.0s",
+      "image": "step-17.jpg"
+    },
+    {
+      "action": "Open location selector",
+      "timestamp": "2026-10-31T06:31:56Z",
+      "duration": "2.6s",
+      "image": "step-18.jpg"
+    },
+    {
+      "action": "Confirm location 560103",
+      "timestamp": "2026-10-31T06:32:11Z",
+      "duration": "5.4s",
+      "image": "step-19.jpg"
+    },
+    {
+      "action": "Select first location suggestion",
+      "timestamp": "2026-10-31T06:32:25Z",
+      "duration": "7.8s",
+      "image": "step-20.jpg"
+    },
+    {
+      "action": "Navigate to full search results page",
+      "timestamp": "2026-10-31T06:32:36Z",
+      "duration": "3.9s",
+      "image": "step-21.jpg"
+    },
+    {
+      "action": "Navigate directly to search results page for yoga bar protein bar",
+      "timestamp": "2026-10-31T06:32:44Z",
+      "duration": "10.4s",
+      "image": "step-22.jpg"
+    },
+    {
+      "action": "Dismiss location confirmation popup",
+      "timestamp": "2026-10-31T06:32:58Z",
+      "duration": "2.1s",
+      "image": "step-23.jpg"
+    },
+    {
+      "action": "Extract first 8 products from search results",
+      "timestamp": "2026-10-31T06:33:08Z",
+      "duration": "2.1s",
+      "image": "step-24.jpg"
+    },
+    {
+      "action": "Navigate to full search results page",
+      "timestamp": "2026-10-31T06:33:18Z",
+      "duration": "2.0s",
+      "image": "step-25.jpg"
+    },
+    {
+      "action": "Check if search results are visible",
+      "timestamp": "2026-10-31T06:33:23Z",
+      "duration": "2.0s",
+      "image": "step-26.jpg"
+    },
+    {
+      "action": "Focus search input field",
+      "timestamp": "2026-10-31T06:33:46Z",
+      "duration": "2.8s",
+      "image": "step-27.jpg"
+    },
+    {
+      "action": "Extract product details from search results",
+      "timestamp": "2026-10-31T06:34:06Z",
+      "duration": "12.9s",
+      "image": "step-28.jpg"
+    },
+    {
+      "action": "Wait for search results to load",
+      "timestamp": "2026-10-31T06:34:27Z",
+      "duration": "5.3s",
+      "image": "step-29.jpg"
+    },
+    {
+      "action": "Focus search input",
+      "timestamp": "2026-10-31T06:34:46Z",
+      "duration": "2.0s",
+      "image": "step-30.jpg"
+    },
+    {
+      "action": "Extract search results for yoga bar protein bar",
+      "timestamp": "2026-10-31T06:35:02Z",
+      "duration": "3.1s",
+      "image": "step-31.jpg"
+    },
+    {
+      "action": "Wait for search results to fully load",
+      "timestamp": "2026-10-31T06:35:13Z",
+      "duration": "8.3s",
+      "image": "step-32.jpg"
+    },
+    {
+      "action": "Extract product details from search results page",
+      "timestamp": "2026-10-31T06:35:32Z",
+      "duration": "1.6s",
+      "image": "step-33.jpg"
+    },
+    {
+      "action": "Re-visit search results page",
+      "timestamp": "2026-10-31T06:35:47Z",
+      "duration": "12.3s",
+      "image": "step-34.jpg"
+    },
+    {
+      "action": "Focus search input to enter query",
+      "timestamp": "2026-10-31T06:36:06Z",
+      "duration": "1.6s",
+      "image": "step-35.jpg"
+    },
+    {
+      "action": "Extract first 8 products from search results",
+      "timestamp": "2026-10-31T06:36:15Z",
+      "duration": "3.1s",
+      "image": "step-36.jpg"
+    },
+    {
+      "action": "Return first 8 products and delivery ETA for yoga bar protein bar",
+      "timestamp": "2026-10-31T06:36:40Z",
+      "duration": "0.0s",
+      "image": null
+    },
+    {
+      "action": "Task completed",
+      "timestamp": "2026-10-31T06:36:57Z",
+      "duration": null,
+      "image": null
+    }
+  ]
+}
