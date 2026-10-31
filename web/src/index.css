@@ -1,0 +1,36 @@
+@import "tailwindcss";
+@import "leaflet/dist/leaflet.css";
+
+/* static: Leaflet marker HTML reads these vars directly, so emit all of them */
+@theme static {
+  --font-serif: "Instrument Serif", Georgia, serif;
+  --font-sans: "Inter Tight", system-ui, sans-serif;
+  --font-mono: "JetBrains Mono", ui-monospace, monospace;
+
+  --color-paper: #f5f1ea;
+  --color-card: #fffdf9;
+  --color-ink: #1b1813;
+  --color-ink-2: #5c554a;
+  --color-ink-3: #948b7c;
+  --color-line: #e3dccf;
+
+  --color-ok: #17803d;
+  --color-oos: #c6361f;
+  --color-nl: #c27a00;
+  --color-run: #2f5bd3;
+
+  --color-blinkit: #f8cb46;
+  --color-zepto: #5a1fc7;
+  --color-bigbasket: #6a9f17;
+  --color-instamart: #fc8019;
+}
+
+html, body { background: var(--color-paper); color: var(--color-ink); }
+body { font-family: var(--font-sans); -webkit-font-smoothing: antialiased; }
+
+.leaflet-container { background: #ebe5da; font-family: var(--font-sans); }
+.leaflet-tile-pane { filter: grayscale(1) sepia(.25) contrast(.92) brightness(1.04); }
+.leaflet-div-icon { background: none; border: 0; }
+
+@keyframes sweep { from { transform: translateX(-100%); } to { transform: translateX(250%); } }
+.sweep { animation: sweep 1.3s linear infinite; }

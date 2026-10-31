@@ -1,0 +1,80 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>ShelfSight</title>
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/leaflet/1.9.4/leaflet.min.css">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&family=JetBrains+Mono:wght@400;500&display=swap" rel="stylesheet">
+<link rel="stylesheet" href="/static/style.css?v=4">
+</head>
+<body>
+<header>
+  <div class="logo"><span class="dot"></span>ShelfSight <small>quick-commerce shelf intelligence · powered by TinyFish agents</small></div>
+  <form id="scan">
+    <label>Brand<input id="brand" value="Yoga Bar" required></label>
+    <label>Search term<input id="keyword" value="yoga bar protein bar" required></label>
+    <label>Mode
+      <select id="mode">
+        <option value="auto">Auto (cache + live)</option>
+        <option value="live">Live only</option>
+        <option value="replay">Replay only</option>
+      </select>
+    </label>
+    <button type="submit" id="go">Deploy agents →</button>
+  </form>
+  <div class="chips" id="platforms"></div>
+  <div class="chips" id="pincodes"></div>
+</header>
+
+<main>
+  <section class="score">
+    <div class="kpi"><b id="k-agents">0</b><span>agents deployed</span></div>
+    <div class="kpi"><b id="k-avail">–</b><span>availability</span></div>
+    <div class="kpi"><b id="k-rank">–</b><span>#1 rank share</span></div>
+    <div class="kpi"><b id="k-alerts">0</b><span>alerts</span></div>
+    <div class="kpi"><b id="k-time">0s</b><span>elapsed</span></div>
+    <div class="kpi muted"><b id="k-saved">–</b><span>manual effort saved</span></div>
+  </section>
+
+  <section class="grid">
+    <div class="panel map-panel">
+      <h2>Bengaluru shelf map <span class="legend"><i class="ok"></i>in stock <i class="oos"></i>out of stock <i class="nl"></i>not listed <i class="run"></i>scanning</span></h2>
+      <div id="map"></div>
+    </div>
+    <div class="panel">
+      <h2>Live browser <span id="live-sub" class="sub">click any live agent to watch it</span></h2>
+      <div id="live"><div class="live-empty">When an agent goes live, you'll see its real browser here.</div></div>
+    </div>
+  </section>
+
+  <section class="grid">
+    <div class="panel">
+      <h2>Agent swarm <span id="swarm-sub" class="sub"></span></h2>
+      <div id="board"></div>
+    </div>
+    <div class="panel">
+      <h2>Alerts <button id="share" class="ghost" disabled>Send to WhatsApp</button></h2>
+      <ul id="alerts"><li class="empty">Deploy agents to see what shoppers actually see.</li></ul>
+    </div>
+  </section>
+
+  <section class="panel">
+    <h2>Shelf matrix</h2>
+    <div id="matrix"></div>
+  </section>
+</main>
+
+<div id="modal" hidden>
+  <div class="modal-box">
+    <div class="modal-head"><div><b id="ev-title"></b><small id="ev-sub"></small></div><button class="ghost" id="ev-close">Close ✕</button></div>
+    <div class="ev-main"><img id="ev-img" alt="Agent screenshot"><div id="ev-caption"></div></div>
+    <div id="ev-strip"></div>
+  </div>
+</div>
+
+<script src="https://cdnjs.cloudflare.com/ajax/libs/leaflet/1.9.4/leaflet.min.js"></script>
+<script src="/static/app.js?v=4"></script>
+</body>
+</html>
